@@ -7,5 +7,6 @@
 <p>>ceci est la page index</p>
 <p>ceci est la ligne 1</p>
 <p>ceci est la ligne 2</p>
+<p>page 3</p>
 </body>
 </html>
